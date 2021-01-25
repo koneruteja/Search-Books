@@ -1,0 +1,19 @@
+{
+  "name": "search-books",
+  "version": "1.0.0",
+  "description": "Refactoring a fully functional Google Book Search Engine from RESTful API to grpahQL using MERN (MongoDB, Express.js, React and Node.js) stack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koneruteja/Search-Books.git"
+  },
+  "author": "koneru.dharmateja1@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koneruteja/Search-Books/issues"
+  },
+  "homepage": "https://github.com/koneruteja/Search-Books#readme"
+}
